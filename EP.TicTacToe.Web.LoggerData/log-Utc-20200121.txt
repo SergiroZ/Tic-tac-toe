@@ -1,0 +1,82 @@
+2020-01-21 19:17:28.990 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:17:29.334 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:17:29.790 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:17:29.792 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:17:29.797 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:17:30.027 +03:00 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2020-01-21 19:17:30.029 +03:00 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2020-01-21 19:17:30.035 +03:00 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2020-01-21 19:17:30.766 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:17:30.768 +03:00 [Information] Sending file. Request path: '"/favicon-16x16.png"'. Physical path: '"N/A"'
+2020-01-21 19:17:31.420 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:18:01.712 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:18:01.715 +03:00 [Information] Sending file. Request path: '"/oauth2-redirect.html"'. Physical path: '"N/A"'
+2020-01-21 19:18:01.843 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:22:32.653 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:22:32.778 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:22:32.779 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:22:32.783 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:22:32.791 +03:00 [Information] The file "/swagger-ui.css" was not modified
+2020-01-21 19:22:32.791 +03:00 [Information] The file "/swagger-ui-bundle.js" was not modified
+2020-01-21 19:22:32.791 +03:00 [Information] The file "/swagger-ui-standalone-preset.js" was not modified
+2020-01-21 19:22:33.900 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:58:10.608 +03:00 [Information] CORS policy execution failed.
+2020-01-21 19:58:10.612 +03:00 [Information] Request origin "https://localhost:44350" does not have permission to access the resource.
+2020-01-21 19:58:10.622 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:58:10.642 +03:00 [Information] Executing endpoint '"EP.TicTacToe.Web.Controllers.GameController.CreateNewGameAsync (EP.TicTacToe.Web)"'
+2020-01-21 19:58:12.560 +03:00 [Information] Successfully validated the token.
+2020-01-21 19:58:12.628 +03:00 [Information] Authorization was successful.
+2020-01-21 19:58:45.809 +03:00 [Error] SQLite Error 5: 'database is locked'.
+2020-01-21 19:58:45.873 +03:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2020-01-21 19:58:45.917 +03:00 [Information] Executed endpoint '"EP.TicTacToe.Web.Controllers.GameController.CreateNewGameAsync (EP.TicTacToe.Web)"'
+2020-01-21 19:59:44.005 +03:00 [Information] CORS policy execution failed.
+2020-01-21 19:59:44.006 +03:00 [Information] Request origin "https://localhost:44350" does not have permission to access the resource.
+2020-01-21 19:59:44.007 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 19:59:44.018 +03:00 [Information] Executing endpoint '"EP.TicTacToe.Web.Controllers.GameController.CreateNewGameAsync (EP.TicTacToe.Web)"'
+2020-01-21 19:59:44.025 +03:00 [Information] Successfully validated the token.
+2020-01-21 19:59:44.031 +03:00 [Information] Authorization was successful.
+2020-01-21 19:59:47.416 +03:00 [Information] Action: CreateNewGameAsync : - Game was created at 21.01.2020 16:59:47 [Utc]
+2020-01-21 19:59:47.456 +03:00 [Information] Executing ObjectResult, writing value of type '"EP.TicTacToe.Logic.Models.Game"'.
+2020-01-21 19:59:47.466 +03:00 [Information] Executed endpoint '"EP.TicTacToe.Web.Controllers.GameController.CreateNewGameAsync (EP.TicTacToe.Web)"'
+2020-01-21 20:00:31.181 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 20:00:31.182 +03:00 [Information] Executing endpoint '"EP.TicTacToe.Web.Controllers.GameController.GetGameAsync (EP.TicTacToe.Web)"'
+2020-01-21 20:00:31.220 +03:00 [Information] Successfully validated the token.
+2020-01-21 20:00:31.221 +03:00 [Information] Authorization was successful.
+2020-01-21 20:00:31.699 +03:00 [Error] An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2020-01-21 20:00:31.701 +03:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2020-01-21 20:00:31.702 +03:00 [Information] Executed endpoint '"EP.TicTacToe.Web.Controllers.GameController.GetGameAsync (EP.TicTacToe.Web)"'
+2020-01-21 20:01:24.469 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 20:01:24.470 +03:00 [Information] Executing endpoint '"EP.TicTacToe.Web.Controllers.GameController.GetGameAsync (EP.TicTacToe.Web)"'
+2020-01-21 20:01:24.473 +03:00 [Information] Successfully validated the token.
+2020-01-21 20:01:24.474 +03:00 [Information] Authorization was successful.
+2020-01-21 20:01:24.634 +03:00 [Information] Action: GetGameAsync Parameter: Id = 20
+2020-01-21 20:01:24.638 +03:00 [Information] Executing ObjectResult, writing value of type '"EP.TicTacToe.Logic.Models.Game"'.
+2020-01-21 20:01:24.639 +03:00 [Information] Executed endpoint '"EP.TicTacToe.Web.Controllers.GameController.GetGameAsync (EP.TicTacToe.Web)"'
+2020-01-21 20:03:38.992 +03:00 [Information] CORS policy execution failed.
+2020-01-21 20:03:38.992 +03:00 [Information] Request origin "https://localhost:44350" does not have permission to access the resource.
+2020-01-21 20:03:38.994 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 20:03:38.996 +03:00 [Information] Executing endpoint '"EP.TicTacToe.Web.Controllers.StepController.AddNewStepAsync (EP.TicTacToe.Web)"'
+2020-01-21 20:03:39.033 +03:00 [Information] Successfully validated the token.
+2020-01-21 20:03:39.034 +03:00 [Information] Authorization was successful.
+2020-01-21 20:03:40.495 +03:00 [Information] Action: AddNewStepAsync : step from PlayerId=3 GameId=20 was written at [21.01.2020 17:03:40]
+2020-01-21 20:03:40.498 +03:00 [Information] Executing ObjectResult, writing value of type '"EP.TicTacToe.Logic.Models.StepResult"'.
+2020-01-21 20:03:40.506 +03:00 [Information] Executed endpoint '"EP.TicTacToe.Web.Controllers.StepController.AddNewStepAsync (EP.TicTacToe.Web)"'
+2020-01-21 20:04:59.314 +03:00 [Information] CORS policy execution failed.
+2020-01-21 20:04:59.315 +03:00 [Information] Request origin "https://localhost:44350" does not have permission to access the resource.
+2020-01-21 20:04:59.316 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 20:04:59.317 +03:00 [Information] Executing endpoint '"EP.TicTacToe.Web.Controllers.UserRegisterController.RegisterWithToken (EP.TicTacToe.Web)"'
+2020-01-21 20:04:59.369 +03:00 [Error] Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'EP.TicTacToe.Web.Controllers.UserRegisterController'.
+2020-01-21 20:04:59.371 +03:00 [Information] Executing ObjectResult, writing value of type '"System.String"'.
+2020-01-21 20:04:59.372 +03:00 [Information] Executed endpoint '"EP.TicTacToe.Web.Controllers.UserRegisterController.RegisterWithToken (EP.TicTacToe.Web)"'
+2020-01-21 22:10:37.138 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 22:11:32.240 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 22:11:46.414 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 22:12:42.593 +03:00 [Information] Sending file. Request path: '"/favicon-16x16.png"'. Physical path: '"N/A"'
+2020-01-21 22:52:31.892 +03:00 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2020-01-21 22:52:31.899 +03:00 [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+2020-01-21 22:52:31.917 +03:00 [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+2020-01-21 22:52:32.710 +03:00 [Information] Sending file. Request path: '"/favicon-16x16.png"'. Physical path: '"N/A"'
+2020-01-21 22:57:44.820 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 22:58:02.482 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 22:58:28.986 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
+2020-01-21 22:58:32.938 +03:00 [Information] "Identity.Application" was not authenticated. Failure message: "Unprotect ticket failed"
