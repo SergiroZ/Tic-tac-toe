@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Text;
-using System.Security.Claims;
+//using System.Security.Claims;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -15,15 +14,15 @@ using EP.TicTacToe.Logic.Profiles;
 using EP.TicTacToe.Logic.Queries;
 using EP.TicTacToe.Logic.Services;
 using EP.TicTacToe.Logic.Validators;
-using EP.TicTacToe.Web.Constants;
+//using EP.TicTacToe.Web.Constants;
 using EP.TicTacToe.Web.Filters;
 using FluentValidation.AspNetCore;
-using Microsoft.AspNetCore.Authentication;
+//using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.Google;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Http;
-using Microsoft.IdentityModel.Tokens;
+//using Microsoft.AspNetCore.Http;
+//using Microsoft.IdentityModel.Tokens;
 using NSwag;
 using NSwag.AspNetCore;
 using Serilog;
@@ -41,7 +40,11 @@ namespace EP.TicTacToe.Web
             Configuration = configuration;
         }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
+
+        /// <summary>
+        /// This method gets called by the runtime. Use this method to add services to the container.
+        /// </summary>
+        /// <param name="services"></param>
         public void ConfigureServices(IServiceCollection services)
         {
             services
@@ -71,7 +74,7 @@ namespace EP.TicTacToe.Web
                 cfg.Title = "TicTacToe game API";
                 cfg.DocumentName = "API";
                 cfg.SchemaType = SchemaType.OpenApi3;
-                cfg.AddSecurity("oauth", new[] {"tictactoe_api"},
+                cfg.AddSecurity("oauth", new[] { "tictactoe_api" },
                     new OpenApiSecurityScheme()
                     {
                         Flow = OpenApiOAuth2Flow.Implicit,
@@ -107,8 +110,8 @@ namespace EP.TicTacToe.Web
 
             services.AddLogging();
         }
-        
-        
+
+
         /// <summary>
         /// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         /// </summary>
